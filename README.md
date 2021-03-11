@@ -1,4 +1,5 @@
 # Welcome to HanaShop repository
+A website that sells foods: coffee, cakes, candies, ... 
 
 ## You will find in this repo:
 * HanaShop Java source code
@@ -6,7 +7,7 @@
 * README.md - this file ifself to show the home page of this repo
 
 ## This system contains the following functions:
-* Function 1: Login – 50 Points 
+* Function 1: Login
 * Function 2: Search Foods/ Drinks 
 * Function 3: Delete food/drink
 * Function 4: Update Food 
