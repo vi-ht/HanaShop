@@ -18,7 +18,7 @@ A website that sells foods: coffee, cakes, candies, ...
 * Function 9: Login extra 
 * Function 10: Product recommendation
 
-## Connect me via
-1. [facebook](https://www.facebook.com/merry.kute.31/)
-2. [Email](mailto:thanhviii888@gmail.com)
+## 💬 Connect me via ❓ 
+  * [facebook](https://www.facebook.com/merry.kute.31/)📌
+  * [Email](mailto:thanhviii888@gmail.com)✉️
 #### ⓒ 2021 by Thanh Vi
